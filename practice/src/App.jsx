@@ -6,7 +6,7 @@ const App = () => {
     <div>
       <Student name="Squidward" age="41" isStudent={true} />
        <Student name="Spongebob"      age="12" isStudent={false}         />
-       {/* <Student name="Patrick" /> */}
+       <Student name="Sandy"  age="20"  isStudent={true} />
     </div>
   )
 }
