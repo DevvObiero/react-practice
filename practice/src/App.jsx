@@ -5,8 +5,8 @@ const App = () => {
   return (
     <div>
       <Student name="Squidward" age="41" isStudent={true} />
-      {/* <Student name="Spongebob" />
-      <Student name="Patrick" /> */}
+       <Student name="Spongebob"      age="12" isStudent={false}         />
+       {/* <Student name="Patrick" /> */}
     </div>
   )
 }
